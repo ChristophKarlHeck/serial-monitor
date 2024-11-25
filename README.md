@@ -10,7 +10,7 @@ A simple Python-based tool for monitoring and logging serial port data with comm
 - Python 3.6+
 - `pyserial` library
 
-## Installation
+## Installation and Execution
 1. Clone this repository:
    ```sh
    git clone https://github.com/ChristophKarlHeck/serial-monitor
