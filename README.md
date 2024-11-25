@@ -18,4 +18,4 @@ A simple Python-based tool for monitoring and logging serial port data with comm
 
 2. `pip3 install -r requirements.txt`
 
-3. `python3 log.py -p /dev/serial0 -b 9600 -L`
+3. `python3 log.py -p /dev/serial0 -b 115200 -L`
