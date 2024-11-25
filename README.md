@@ -16,6 +16,6 @@ A simple Python-based tool for monitoring and logging serial port data with comm
    git clone https://github.com/ChristophKarlHeck/serial-monitor
    cd serial-monitor
 
-2. `pip install -r requirements.txt`
+2. `pip3 install -r requirements.txt`
 
 3. `python3 script.py -p /dev/ttyUSB0 -b 9600 -L`
