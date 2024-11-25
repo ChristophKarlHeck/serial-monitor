@@ -1,5 +1,5 @@
 # Serial Monitor
-A simple Python-based tool for monitoring and logging serial port data with command-line options.
+A simple Python-based tool for monitoring and logging serial port data with command-line options for Raspberry Pi.
 
 ## Features
 - Monitor serial port data in real time.
